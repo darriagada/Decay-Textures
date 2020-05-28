@@ -1,3 +1,7 @@
+# Ignore the doc assets #
+######################
+assets/
+
 # OS generated files #
 ######################
 .DS_Store
