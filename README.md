@@ -18,6 +18,6 @@ Grunge textures are abstract and always differ from one another. Sometimes you'l
 
 
 ## To-do
-- [ ] Upload the actual textures
+- [x] Upload the actual textures
 - [x] Add visual examples
 - [ ] Write some quick tutorials
