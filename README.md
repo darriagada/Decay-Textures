@@ -10,7 +10,9 @@ It features raster and vector editions.
 
 
 ### References
-Here are some references of which files you'll encounter in this pack:
+Here are some references of which files you'll encounter in this pack.
+
+![Examples](https://github.com/darriagada/Gritkit/blob/master/assets/examples.png)
 
 ### Recommended software
 Here's an incomplete list of recommended software but you can use any software you like.
