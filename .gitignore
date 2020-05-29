@@ -1,7 +1,7 @@
 # Ignore the doc assets #
 ######################
 assets/
-bundle/
+kits/
 
 # OS generated files #
 ######################
