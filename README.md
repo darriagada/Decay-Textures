@@ -21,3 +21,5 @@ Grunge textures are abstract and always differ from one another. Sometimes you'l
 - [x] Upload the actual textures
 - [x] Add visual examples
 - [ ] Write some quick tutorials
+- [ ] Categorize the file chaos for easy access
+- [ ] Showcase the textures somehow
