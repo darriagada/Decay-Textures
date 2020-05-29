@@ -1,6 +1,7 @@
 # Gritkit
-An evergrowing collection of grungy textures I create sporadically from photos, dirt, spills, etc.
-Features raster and vector editions.
+A collection of grungy textures I create sporadically from photos, dirt, spills, etc.
+
+It features raster and vector editions.
 
 ### To-do
 - [ ] Add visual examples
