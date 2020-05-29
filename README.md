@@ -1,5 +1,6 @@
 # Gritkit
 A collection of grungy textures I create sporadically from photos, dirt, spills, etc.
+
 Sometimes you'll need subtle dust or a complex grunge pattern, so I thought it would be handy to have an evergrowing pack of textures that not only I can use but everybody else can.
 
 ### References
