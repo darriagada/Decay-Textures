@@ -7,7 +7,7 @@ Sometimes you'll need subtle dust or a complex grunge pattern, so I thought it w
 Feel free to [grab the entire repository](https://github.com/darriagada/Gritkit/archive/master.zip) — Current version is **1.0**
 
 ### References
-Here are some references of which files you'll encounter in this pack.
+Here are some references of which type of textures you'll find in this pack.
 
 ![Examples](https://github.com/darriagada/Gritkit/blob/master/assets/examples.png)
 
@@ -20,5 +20,3 @@ Here's an incomplete list of recommended software but you can use any software y
 - [x] Upload the actual textures
 - [x] Add visual examples
 - [ ] Write some quick tutorials
-- [ ] Categorize the file chaos for easy access
-- [ ] Showcase the textures somehow
