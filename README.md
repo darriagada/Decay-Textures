@@ -16,7 +16,11 @@ Here's an incomplete list of recommended software but you can use any software y
 * For vector files: [Adobe Illustrator](https://www.adobe.com/products/illustrator.html), [Inkscape](https://inkscape.org/), [CorelDRAW](http://www.coreldraw.com/), etc.
 * For raster images: [Adobe Photoshop](https://www.adobe.com/products/photoshop.html), [Affinity Photo](https://affinity.serif.com/photo/), [GIMP](https://www.gimp.org/), etc.
 
+### How to use them
+If you are planning on using the raster images, you can use them as backgrounds or overlay textures. You can blend them using **blending modes.**. You can add Hue/Saturation if you want to change the base color if you need it.
+
+On the other hand, if you are using the vector textures, you can grab one or multiple textures and **change it's fill color** since all of them are editable. Be aware that this version is more resource intensive due to the amount of vector paths generated.
+
 ## To-do
 - [x] Upload the actual textures
 - [x] Add visual examples
-- [ ] Write some quick tutorials
