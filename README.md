@@ -19,7 +19,7 @@ Here's an incomplete list of recommended software but you can use any software y
 ### How to use them
 **If you are using the raster images:** you can use them as backgrounds or overlay textures. Mix them using **blending modes.** You can attach a Hue/Saturation filter if you want to change the base color or you can invert the colors, etc.
 
-**If you are using the vector textures:** you have more control. You can grab one or multiple textures and **change it's fill color** since all of them are editable. Be aware that this version is **more resource intensive** due to the amount of vector paths generated.
+**If you are using the vector textures:** you can grab one or multiple textures and **change it's fill color** since all of them are editable. You have more control over the textures but be aware that this version is **more resource intensive** due to the amount of vector paths generated.
 
 ## To-do
 - [x] Upload the actual textures
