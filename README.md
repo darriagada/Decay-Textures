@@ -1,15 +1,15 @@
-# Gritkit
+# Decay Textures
 A collection of grungy textures I create sporadically from photos, dirt, spills, etc.
 
 Sometimes you'll need subtle dust or a complex grunge pattern, so I thought it would be handy to have an evergrowing pack of textures that not only me but everybody else can use them.
 
 ### Download
-Feel free to [grab the entire repository](https://github.com/darriagada/Gritkit/archive/master.zip) — Current version is **1.0**
+Feel free to [grab the entire repository](https://github.com/darriagada/Decay-Textures/archive/master.zip) — Current version is **1.0**
 
 ### References
 Here are some references of which type of textures you'll find in this pack.
 
-![Examples](https://github.com/darriagada/Gritkit/blob/master/assets/examples.png)
+![Examples](https://github.com/darriagada/Decay-Textures/blob/master/assets/examples.png)
 
 ### Recommended software
 Here's an incomplete list of recommended software but you can use any software you like.
