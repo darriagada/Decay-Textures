@@ -1,7 +1,7 @@
 # Decay Textures
 A collection of grungy textures I create sporadically from photos, dirt, spills, etc.
 
-Sometimes you'll need subtle dust or a complex grunge pattern, so I thought it would be handy to have an evergrowing pack of textures that not only me but everybody else can use them.
+Sometimes you need an specific grungy texture, so I thought it would be handy to have an evergrowing pack of textures that not only me but everybody else can use them.
 
 ### Download
 Feel free to [grab the entire repository](https://github.com/darriagada/Decay-Textures/archive/master.zip) — Current version is **1.0**
