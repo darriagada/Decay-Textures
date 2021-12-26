@@ -4,7 +4,10 @@ A collection of grungy textures I create sporadically from photos, dirt, spills,
 Sometimes you need an specific grungy texture, so I thought it would be handy to have an evergrowing pack of textures that not only me but everybody else can use them.
 
 ### Download
-Feel free to [grab the latest version here](https://github.com/darriagada/Decay-Textures/releases/latest) — Current version is **1.0.0**
+Feel free to [grab the latest version here](https://github.com/darriagada/Decay-Textures/archive/refs/tags/v1.0.0.zip) — Current version is **1.0.0**
+
+### Expansion Packs
+* **Decay II** which adds the og texture photos in full detail, color plus some new ones. [**Get that here.**](https://github.com/darriagada/Decay-Textures/releases/download/v1.0.0-dlc/DecayIIEXP.zipp)
 
 ### References
 Here are some references of which type of textures you'll find in this pack.
